@@ -18,3 +18,16 @@ A link to visualizations of the data can be found at
 
 https://public.tableau.com/app/profile/stephen.stewart4198/viz/shared/7JZTRW38T
 
+Some of the key findings, summarized better in the PowerPoint deck were the strengths of different correlations
+
+![image](https://github.com/smstewart1/MathEfficacy/assets/107202785/3f1a64b5-3882-4cbc-9ccf-25147cd58184)
+
+Effect of nearest neighbors on model accuracy
+
+![image](https://github.com/smstewart1/MathEfficacy/assets/107202785/c3612f66-7ca4-4e41-8e13-fcd95d9ac5cf)
+
+And the confusion matrices of the different KNN models
+
+![image](https://github.com/smstewart1/MathEfficacy/assets/107202785/25cacb64-9407-4596-9654-fb7ff8e955d5)
+
+Models with accuracies as high as 90% were developed, with good selectivity and specificity.
